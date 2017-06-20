@@ -1,4 +1,4 @@
-const Chronometer = require('./Chronometer');
+const Chronometer = require('./chronometer');
 const Collector = require('./metrics-collector');
 const MetricsServer = require('./metrics-server')
 
